@@ -1,0 +1,14 @@
+{
+    "header": {
+        "about-me": "About me",
+        "experience": "Experience"
+    },
+    "about-me": {
+        "title": "About me",
+        "text": "I learned how to create websites on my own, and now I want to share the tools I've acquired over the years. I know that it can be frustrating and challenging to make progress at times, which is why I create these videos. My aim is to help you better understand the key frontend development languages and support you on your learning journey."
+    },
+    "experience": {
+        "title": "Experience",
+        "text": "From 2014 to 2021, I worked as a Frontend Developer in 🇦🇷 Su Web Express, one of the leading digital agencies in Argentina. In 2019 we created 🇺🇾 Urutienda, where I've been working as a WordPress Developer since then. In 2022 I started teaching Web Development at the digital academy Coderhouse. Then, I created my YouTube channel as a place to upload extra content for my students, and it has evolved into what is today: a channel with a lot of videos and courses about HTML, CSS and JavaScript, reaching 16500 subscribers. I recently moved to 🇪🇸 Spain, in search of challenges, opportunities and new projects."
+    }
+}

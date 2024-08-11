@@ -1,0 +1,14 @@
+{
+    "header": {
+        "about-me": "Sobre mí",
+        "experience": "Experiencia"
+    },
+    "about-me": {
+        "title": "Sobre mí",
+        "text": "Aprendí a hacer sitios web por mi cuenta y ahora quiero compartir las herramientas que adquirí a lo largo de los años. Sé que a veces puede ser frustrante y difícil avanzar, por eso creo estos videítos. Mi objetivo es ayudarte a comprender mejor los principales lenguajes de desarrollo frontend y acompañarte en tu camino de aprendizaje."
+    },
+    "experience": {
+        "title": "Experiencia",
+        "text": "De 2014 a 2021 trabajé como Desarrollador Frontend & WordPress en 🇦🇷 Su Web Express, una de las agencias digitales líderes en Argentina. En 2019 creamos 🇺🇾 Urutienda, donde trabajo como Desarrollador WordPress y Líder en Help Desk desde entonces. En 2022 comencé a dar clases de Desarrollo Web en la academia digital Coderhouse. Además creé mi canal de YouTube como un espacio en el que compartir contenido extra con mi alumnado, y evolucionó en lo que es hoy: un canal con muchos videos y cursos sobre HTML, CSS y JavaScript, llegando a 16500 suscriptores. En 2023 me trasladé a 🇪🇸 España, en búsqueda de desafíos, oportunidades y nuevos proyectos."
+    }
+}
